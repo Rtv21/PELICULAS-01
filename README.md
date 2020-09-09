@@ -27,4 +27,8 @@ https://sqiy3k.gounlimited.to/tea5vvugud2qzxfffoyyl5ly6zyptybknzzml6x3ean6nedxck
 https://vx19k3.gounlimited.to/tea5ugoxv32qzxfffnbyvpzeusxcn233ji6zl7hyoxv7sf5s4rd3zwikvb6q/v.mp4
 
 #EXTINF:-1, group-tltle="TV" tvg-logo="https://www.cinecalidad.is/wp-content/uploads/2019/08/gran-terremoto-9-grados.jpg", Gran terremoto 9 grados
-https://fs356.gounlimited.to/tea5vgr6wl2qzxfffpiixizo6s3iwvsmdwm5bktniujtr3vnv7ik6isxz4za/v.mp4
+https://fs356.gounlimited.to/tea5vgr6wl2qzxfffpiixizo6s3iwvsmdwm5bktniujtr3vnv7ik6isxz4za/v.
+
+#EXTINF:-1, group-tltle="TV" tvg-logo="https://www.cinecalidad.is/wp-content/uploads/2020/08/seriously-single.jpg", Solterísima
+https://q4cu8h.gounlimited.to/tea5ujzpf32azxfffp3yz43fvgy7nzrdrv6zbze5slyzc4lqgvmm7nyjat3a/v.mp4
+
